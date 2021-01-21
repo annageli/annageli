@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Anna Geli
+🔭 I’m currently working on labs...
 
 <!--
 **annageli/annageli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
